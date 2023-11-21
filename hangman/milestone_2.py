@@ -6,6 +6,7 @@ def random_fruit_picker():
 
     word = random.choice(word_list)
     print(word)
+    return word
 
 def guess_letter():
     guess = input('Enter a single letter: ')
