@@ -2,10 +2,7 @@ import random
 
 def random_fruit_picker():
     word_list = ['Apple', 'Banana', 'Strawberry', 'Grape', 'Melon']
-    print(word_list)
-
     word = random.choice(word_list)
-    print(word)
     return word
 
 def guess_letter():
@@ -16,5 +13,5 @@ def guess_letter():
     else:
         print("Oops! That is not a valid input.")
 
-random_fruit_picker()
+print(random_fruit_picker())
 guess_letter()
