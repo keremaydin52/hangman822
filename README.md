@@ -18,3 +18,5 @@ Similar methods with milestone 2 with an addition of a method that checks if gue
 ## Milestone 4
 Similar methods with milestone 3 but includes a Hangman class. Also counts the number of lives if you make a wrong guess.
 
+## Milestone 5
+A complete hangman game experience. Be careful when you guess a letter, since you have limited lives.
